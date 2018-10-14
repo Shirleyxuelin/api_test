@@ -1,0 +1,1 @@
+[2018-10-14 13:04:45] INFO [send_report: send_email.py, 32] send email done
